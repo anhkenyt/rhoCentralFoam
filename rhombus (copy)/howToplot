@@ -1,0 +1,9 @@
+su dung gnu de viewket qua
+paraFoam
+hien view tat ca cac thong so
+pilot overline 
+ctrl S de luu file csv
+lam sript .sh trong folder 
+chmod + x xx.sh de active
+gnuplot plot.sh 
+in ra ket qua 
